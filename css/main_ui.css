@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+.gallery{
+	margin: 10px 50px;
+	}
+.gllery img{
+	width: 230px;
+	padding: 5px;
+	transition:1s;
+	
+	}
+	.gllery img:hover{
+		filter:grayscale(0);
+		trasform:scale(1.1);
+		
+		
