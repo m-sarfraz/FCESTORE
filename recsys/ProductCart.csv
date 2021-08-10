@@ -1,0 +1,35 @@
+id,product_id,product_name,rating,product_code,product_color,color,price,quantity,user_email,session_id
+1,19,nokia 11,4,29,QWE123,black,300,1,muhammadsarfraz531@gmail.com,1
+2,18,nokia 10,5,28,QWE123,blue,400,1,muhammadsarfraz531@gmail.com,1
+3,4,HUAWEI  NOVA Z,5,15,black,purple,300,3,muhammadsarfraz531@gmail.com,1
+4,50,moto 1,3,45,white,black,290,1,a@gmail.com,2
+5,49,huawe 88,4,2,,blue,300,2,b@gmail.com,3
+6,48,huawei 89,5,32,black,purple,300,3,c@gmail.com,4
+7,47,huawei 90,3,4,white,black,300,4,d@gmail.com,5
+8,46,huawei 91,2,24,black,blue,400,5,e@gmail.com,6
+9,45,huawei 92,1,2,white,purple,300,4,f@gmail.com,7
+10,44,huawei 93,3,43,black,black,300,3,g@gmail.com,8
+11,43,huawei 93,4,25,white,blue,400,2,h@gmail.com,9
+12,42,huawei 94,5,2,black,purple,300,1,i@gmail.com,10
+13,41,huawei 95,3,r,white,blue,300,2,j@gmail.com,11
+14,40,huawe 97,5,23,black,purple,400,3,k@gmail.com,12
+15,39,huawei 98,3,5,white,black,300,4,l@gmail.com,13
+16,38,huawei 99,2,24,black,blue,300,5,m@gmail.com,14
+17,37,huawe 3,4,53,blue,purple,400,5,n@gmail.com,15
+19,36,samung 14,2,5,purple,black,300,5,o@gmail.com,16
+20,35,samsung 13,3,35,black,blue,300,4,a@gmail.com,2
+21,34,samsung 12,2,43,blue,purple,400,3,b@gmail.com,3
+22,33,samsung 11,1,5,purple,black,300,2,c@gmail.com,4
+23,32,samsung 11,4,34,blue,blue,300,4,d@gmail.com,5
+24,31,samsung 10,5,3,purple,purple,400,3,e@gmail.com,6
+25,30,samsung 8,4,5,black,blue,300,2,f@gmail.com,7
+26,29,samsung 7,3,3,blue,purple,300,3,g@gmail.com,8
+27,28,samsung 5,5,332,purple,black,400,4,h@gmail.com,9
+28,27,samsung 4,3,45,black,blue,300,3,i@gmail.com,10
+29,26,samsung 3,5,3,blue,purple,300,2,j@gmail.com,11
+30,25,samsung 3,2,4,purple,black,400,3,k@gmail.com,12
+31,24,samsung 2,2,35,black,blue,300,4,l@gmail.com,13
+32,23,samsung 1,1,3,blue,purple,300,3,m@gmail.com,14
+33,22,nokia 15,1,5,purple,black,400,2,n@gmail.com,15
+34,21,nokia 13,1,4,black,blue,300,3,p@gmail.com,19
+35,20,nokia 12,1,6,red,purple,,,,

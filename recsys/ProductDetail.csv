@@ -1,0 +1,49 @@
+video_id,Category-id,Product-name,Product-code,Product-color,description,care,status,price,weight
+50,6,moto 1,moto,red,huawei,huawei,1,400,100
+49,3,huawe 88,huawei,golden,huawei,huawei,1,45000,493
+48,3,huawei 89,2,QWE123,huawei,huawei,1,300,44
+47,3,huawei 90,huawei,white,huawei,huawei,1,100,190
+46,3,huawei 91,nokia,white,huawei,huawei,1,400,44
+45,3,huawei 92,321,golden,huawei,huawei,1,300,130
+44,3,huawei 93,h123,black,huawei,huawei,1,200,124
+43,3,huawei 93,huawei,golden,huawei,huawei,1,100,44
+42,3,huawei 94,huawei,golden,huawei,huawei,1,500,4
+41,3,huawei 95,huawei,white,huawei,huawei,1,300,120
+40,3,huawe 97,huawei,purple,huawei,huawei,1,300,100
+39,3,huawei 98,huawei,purple,huawei,huawei,1,300,4
+38,3,huawei 99,huawei,golden,huawei,huawei,1,500,100
+37,3,huawe 3,1,purple,mobiway,mobiway,1,200,44
+36,1,samung 14,sam14,white,mobiway,mobiway,1,400,120
+35,1,samsung 13,sam13,blue,mobiway,mobiway,1,300,100
+34,1,samsung 12,sam12,white,mobiway,mobiway,1,45000,44
+33,1,samsung 11,sam12,golden,mobiway,mobiway,1,400,49
+32,1,samsung 11,sam11,golden,mobiway,mobiway,1,200,120
+31,1,samsung 10,sam10,black,mobiway,mobiway,1,500,44
+30,1,samsung 8,2,blue,mobiway,mobiway,1,200,100
+29,1,samsung 7,samsung,golden,mobiway,mobiway,1,400,4
+28,1,samsung 5,h123,blue,mobiway,mobiway,1,500,4
+27,1,samsung 4,nokia,QWE123,mobiway,mobiway,1,45000,130
+26,1,samsung 3,1,golden,mobiway,mobiway,1,300,120
+25,1,samsung 3,samsung,white,mobiway,mobiway,1,100,130
+24,1,samsung 2,h123,purple,mobiway,mobiway,1,300,4
+23,1,samsung 1,2,blue,mobiway,mobiway,1,200,120
+22,5,nokia 15,11,purple,mobiway,mobiway,1,300,4
+21,5,nokia 13,321,black,mobiway,mobiway,1,100,4
+20,5,nokia 12,1,blue,mobiway,mobiway,1,4500,100
+19,5,nokia 11,2,QWE123,mobiway,mobiway,1,300,130
+18,5,nokia 10,1,QWE123,mobiway,mobiway,1,400,4
+17,5,nokia 9,11,blue,mobiway,mobiway,1,500,130
+15,5,nokia 7,nokia,black,mobiway,mobiway,1,45000,120
+13,5,nokia 5,2,golden,mobiway,mobiway,1,300,120
+12,5,nokia 4,nokia,white,mobiway,mobiway,1,400,4
+11,5,nokia 2,nokia,blue,nokia,nokia,1,500,100
+10,5,nokia 1,nokia,golden,mobiway,mobiway,1,45000,120
+9,4,iphone 3,3a,purple,mobiway,mobiway,1,300,4
+8,4,iphone 1,iphone1,QWE123,<span>composer require intervention/image</span>,composer require intervention/image,1,100,130
+7,3,huawei 1,h123,black,huawei,huawei,1,400,130
+6,3,Nova 4,321,black,sd,dsdsd,1,100,130
+5,3,Huawei Mate 10 Lite,23f4,white,,care,1,100,130
+4,3,HUAWEI  NOVA Z,12ER,black,product,care,1,300,130
+3,1,SAMSUNG S5,DER,WHITE,"<h1>Mobile Specifications</h1><h1><img alt=""""></h1>",CARE,1,500,100
+2,1,Samsung S5,324,White,products is just newly added,care,1,100,130
+1,1,Samsung S10 plus,12,QWE123,"<i>CS-Cart Product Availability By Pincode/Zipcode :This Add-on will enable Product availability by pincode/zipcode. With the support of this magnificent add-on, the customers can easily find out whether the product they want to order can be delivered in the desired postal address. It is as simple as entering the zip code and checking the availability, also helps in decreasing the abandonment rate of the site.</i><div><h2><i>CS-Cart Product Availability By Pincode/Zipcode Features:</i></h2><ul><li><i>The extension has the ability to import and export CSV file containing pin code/zip code and product id in the backend.</i></li><li><i>A user has the option to select the range of products or complete range of products available in product list for importing/exporting.</i></li><li><i>This extension gives the freedom to upload CSV to let the user check the availability of the product for the desired postal address.</i></li><li><i>Customer will be able to use the check availability option in the product page of the store.</i></li><li><i>Validation of pin code/zip code in product and cart page.</i></li><li><i>Option to check the availability of a product in a quick view tab.</i></li><li><i>It is easy to configure and use at admin end.</i></li></ul><div><h2><i>CS-Cart Product Availability By Pincode/Zipcode Latest Features:</i></h2><ul><li><i>Option to select the range of product's category makes available to pincode/ zipcode.</i></li><li><i>Functionality to create groups to add products with pincode/zipcode.</i></li><li><i>Functionality to display pincode/ zipcode ""change box"" at front end.</i></li></ul></div></div><h1></h1>",care,1,200,130

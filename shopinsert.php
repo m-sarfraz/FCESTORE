@@ -1,3 +1,17 @@
+<?php 
+  session_start(); 
+
+  if (!isset($_SESSION['username'])) {
+  	$_SESSION['msg'] = "You must log in first";
+  	header('location: teabuyers_login.php');
+  }
+if (isset($_GET['teabuyers_logout'])) {
+  	session_destroy();
+  	unset($_SESSION['username']);
+  	header("location: teabuyers_login.php");
+  }
+  
+?>
 <html>
 <head>
     <title>Add Data</title>
@@ -33,9 +47,9 @@ if(isset($_POST['submit'])) {
     // checking empty fields
     if(empty($fname) || empty($lname) || empty($pname)|| empty($saller) || empty($address) || empty($qunty) || empty($price) || empty($city) || empty($pcode) || empty($tell) || empty($email) ) {
                 
-        if(empty($fname)) {
-            echo "<font color='red'>Name field is empty.</font><br/>";
-        }
+        // if(empty($fname)) {
+        //     echo "<font color='red'>Name field is empty.</font><br/>";
+        // }
         
         if(empty($lname)) {
             echo "<font color='red'>last name field is empty.</font><br/>";
@@ -80,9 +94,10 @@ if(isset($_POST['submit'])) {
         
     } else { 
         // if all the fields are filled (not empty) 
-            
+       $user_id = ($_SESSION['user_id']);
         //insert data to database   
         $result = mysqli_query($mysqli, "INSERT INTO biling(product_name,date,p_id,fname,sname,p_name,seller_name,price,quntity,town,postecode,email,tell,address,payment) VALUES('$proname','$date','$id','$fname','$lname','$pname','$saller','$total','$qunty','$city','$pcode','$email','$tell','$address','Cash On Dilivery')");
+        $recommend = mysqli_query($mysqli, "INSERT INTO recommendcontroller(recommended_type,Similarity_id) VALUES('$pname','$user_id')");
         $result1 = mysqli_query($mysqli, "UPDATE shop SET quantity=quantity-$qunty WHERE id=$id");
         $message =
         "

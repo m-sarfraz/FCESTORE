@@ -1,4 +1,3 @@
-<?php include("header.php") ?>
 <?php 
   session_start(); 
 
@@ -13,6 +12,7 @@
   	header("location: teabuyers_login.php");
   }
 ?>
+<?php include("header.php") ?>
 <?php
 // including the database connection file
 $databaseHost = 'localhost';
